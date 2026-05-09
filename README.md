@@ -1,16 +1,11 @@
-# React + Vite
+This ia a web application which is made in reactjs.
+Th main function of this app is to scan the Bar code of any edible product and then fetch it's indgredient using Open Food API. 
+It will then detect if there is any Haram ingredients in it.
+Then it will display the Output.
+It is simple Frontend application without backend and database.
+Technologies Used:
+    1. Reactjs
+    2. Open Food API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1440" height="900" alt="Screenshot 2026-05-09 at 7 50 49 PM" src="https://github.com/user-attachments/assets/bead6404-4085-4a57-9290-fc79997352f3" />
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
