@@ -1,5 +1,5 @@
 This ia a web application which is made in reactjs.
-Th main function of this app is to scan the Bar code of any edible product and then fetch it's indgredient using Open Food API. 
+The main function of this app is to scan the Bar code of any edible product and then fetch it's indgredient using Open Food API. 
 It will then detect if there is any Haram ingredients in it.
 Then it will display the Output.
 It is simple Frontend application without backend and database.
